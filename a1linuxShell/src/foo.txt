@@ -1,0 +1,10 @@
+total 312
+-rwxr-xr-x@ 1 javaughnburke  staff    229  4 Feb 06:53 Makefile
+-rw-r--r--@ 1 javaughnburke  staff      0  7 Feb 22:55 foo.txt
+-rw-r--r--  1 javaughnburke  staff   1155  7 Feb 16:22 header.h
+-rwxr-xr-x  1 javaughnburke  staff  35936  7 Feb 22:52 ish
+-rwxr-xr-x@ 1 javaughnburke  staff  10087  7 Feb 22:52 ish.c
+-rw-r--r--  1 javaughnburke  staff  19980  7 Feb 22:52 ish.o
+-rwxr-xr-x@ 1 javaughnburke  staff    400  6 Feb 22:46 lex.c
+-rw-r--r--  1 javaughnburke  staff  44388  6 Feb 22:55 lex.yy.c
+-rw-r--r--  1 javaughnburke  staff  32352  6 Feb 22:55 lex.yy.o
